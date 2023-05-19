@@ -1,0 +1,7 @@
+C:\Users\uet\Desktop\PRACTICING C SHARP\week3pflab\week3pflab\bin\Debug\week3pflab.exe.config
+C:\Users\uet\Desktop\PRACTICING C SHARP\week3pflab\week3pflab\bin\Debug\week3pflab.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\week3pflab\week3pflab\bin\Debug\week3pflab.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\week3pflab\week3pflab\obj\Debug\week3pflab.csproj.AssemblyReference.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\week3pflab\week3pflab\obj\Debug\week3pflab.csproj.CoreCompileInputs.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\week3pflab\week3pflab\obj\Debug\week3pflab.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\week3pflab\week3pflab\obj\Debug\week3pflab.pdb
